@@ -13,6 +13,8 @@
     "shortcuts"
   ],
   "component": {
-    "mousetrap": "mousetrap.js"
+    "scripts": {
+      "mousetrap": "mousetrap.js"
+    }
   }
 }

@@ -1,0 +1,7 @@
+{
+  "name": "mousetrap",
+  "version": "0.0.1",
+  "description": "Keyboard shortcuts component (browser)",
+  "keywords": ["keyboard", "key", "shortcuts"],
+  "scripts": ["index.js"]
+}

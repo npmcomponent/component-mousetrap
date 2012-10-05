@@ -14,7 +14,7 @@
   ],
   "component": {
     "scripts": {
-      "mousetrap": "mousetrap.js"
+      "mousetrap": "index.js"
     }
   }
 }

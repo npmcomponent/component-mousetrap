@@ -1,20 +1,11 @@
 {
-  "name": "mousetrap",
-  "version": "0.0.1",
+  "name": "component-mousetrap",
   "description": "Keyboard shortcuts component (browser)",
-  "main": "mousetrap.js",
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/component/mousetrap.git"
-  },
+  "version": "0.0.1",
   "keywords": [
     "keyboard",
-    "component",
+    "key",
     "shortcuts"
   ],
-  "component": {
-    "scripts": {
-      "mousetrap": "index.js"
-    }
-  }
+  "dependencies": {}
 }
